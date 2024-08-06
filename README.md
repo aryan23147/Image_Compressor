@@ -28,6 +28,8 @@ This project demonstrates how to use the K-Means clustering algorithm to compres
 ### Prerequisites
 
 Ensure you have Python installed on your machine. You will also need to have `pip` (Python package installer) installed.
+![image](https://github.com/user-attachments/assets/e706552a-619a-4125-a0a4-86523a7e9826)
+
 
 ### Clone the Repository
 
