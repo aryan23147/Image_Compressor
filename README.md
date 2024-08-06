@@ -34,9 +34,13 @@ Ensure you have Python installed on your machine. You will also need to have `pi
 ### Clone the Repository
 
 ```bash
-### Example
-![image](https://github.com/user-attachments/assets/a5b7ac65-4ba9-4b5e-9374-15f81640bb58)   ![image](https://github.com/user-attachments/assets/5281a14d-4a99-4344-a1ad-177173fef3e0)
+
 
 
 git clone https://github.com/your-username/image_compression_project.git
 cd image_compression_project
+
+```
+
+### Example
+![image](https://github.com/user-attachments/assets/a5b7ac65-4ba9-4b5e-9374-15f81640bb58)   ![image](https://github.com/user-attachments/assets/5281a14d-4a99-4344-a1ad-177173fef3e0)
